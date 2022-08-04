@@ -19,4 +19,8 @@ $z ="I LOVE PHP";
 
 print_r($_SERVER['PORT']);
 
+if($x==1){
+    echo "done";
+}
+
 ?>
