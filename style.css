@@ -1,3 +1,11 @@
 script{
     
 }
+body{
+          background-color:red;
+          color: black;
+          position:fixed;
+          font-style:italic;
+          border: 1px solid yellowgreen;
+          display: inline-block;
+    }
