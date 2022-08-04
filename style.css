@@ -1,6 +1,8 @@
 body{
           background-color:red;
-          color: green;
+          color: black;
+          pointer:cursor;
+          font-style:italic;
           border: 1px solid yellowgreen;
           display: inline-block;
     }
