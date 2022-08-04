@@ -6,8 +6,3 @@ body{
           border: 1px solid yellowgreen;
           display: inline-block;
     }
-h1{
-    color: red;
-    align-items: center;
-    font-family: 'Courier New', Courier, monospace;
-}
