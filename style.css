@@ -2,4 +2,9 @@ body{
           background-color:red;
           color: green;
           border: 1px solid yellowgreen;
+          display: inline-block;
     }
+h1{
+    color: red;
+    align-items: center;
+}
